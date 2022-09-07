@@ -31,7 +31,7 @@ main {
   margin-bottom: 30px;
 }
 
-main > div {
+article {
   border-radius: 10px;
   padding: 30px;
   box-shadow: 4px 6px 6px 0px var(--Light-gray);
@@ -66,7 +66,7 @@ h1 {
 }
 q {
   font-size: 13px;
-  color: var(--Light-gray);
+  color: hsl(207deg 5% 63%);
   line-height: 1.5;
 }
 .daniel {
