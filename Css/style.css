@@ -48,7 +48,7 @@ main > div {
   margin-right: 20px;
   border: 2px solid var(--Light-gray);
 }
-.image h3 {
+.image .name {
   color: var(--Light-grayish-blue);
   font-size: 13px;
 }
@@ -92,7 +92,7 @@ q {
   grid-row: 2;
   background-color: var(--White);
 }
-.jonathan-h .image h3 {
+.jonathan-h .image .name {
   color: var(--Very-dark-blackish-blue);
 }
 .jonathan-h .image span {
@@ -112,7 +112,7 @@ q {
   grid-row: 1 / span 2;
   background-color: var(--White);
 }
-.kira .image h3 {
+.kira .image .name {
   color: var(--Very-dark-blackish-blue);
 }
 .kira .image span {
